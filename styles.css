@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+#navbar {
+	display:flex;
+	height:40px;
+	width:100%;
+	background-color:black;
+	
+	
+}
+h4{
+	display:inline;
+	color:white;
+	text-decoration:none;
+	margin-right:25px;
+	margin-left:5px;
+	margin-bottom:15px;
+}
+a{
+	display:flex;
+	color:white;
+	text-decoration:none;
+	margin-right:25px;
+	align-item:center;
+	margin-top:10px
+}
